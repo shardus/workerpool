@@ -26,12 +26,12 @@
     "prepublishOnly": "npm run build && npm run test"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-util": "^3.0.7",
     "istanbul": "^0.4.4",
-    "mocha": "^2.5.3",
+    "mocha": "^10.4.0",
     "uglify-js": "2.8.29",
-    "webpack": "^1.13.1"
+    "webpack": "^5.91.0"
   },
   "dependencies": {
     "@babel/core": "^7.3.4",
